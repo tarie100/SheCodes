@@ -1,0 +1,26 @@
+div, p, footer, #Status {
+    text-align: center;
+}
+p {
+    font-weight: 900;
+    font-family: 'Courier New', Courier, monospace;
+}
+#WeatherIcons, #icon {
+    font-size:xx-large;
+}
+body {
+    background-color: beige;
+}
+.boxed {
+  border: 1px solid turquoise;
+  width: 600px;
+  
+}
+span {
+    font-style:oblique;
+    font-weight: 400;
+}
+#currentButton {
+    background-color: rgb(1, 19, 19);
+    border-radius: 100px;
+}
